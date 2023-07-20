@@ -4,7 +4,7 @@ cask "cxpatcher" do
 
   url "https://github.com/italomandara/CXPatcher/releases/download/V#{version}/CXPatcher.app.zip"
   name "CXPatcher"
-  desc "Patcher to upgrade CrossOver dependencies and improve compatibility"
+  desc "Patcher to upgrade CrossOver dependencies and improve compatibility."
   homepage "https://github.com/italomandara/CXPatcher"
 
   livecheck do
