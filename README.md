@@ -3,9 +3,9 @@ _All the Credits to Stonerl who is the creator of this homebrew cask._
 
 I just modified the repo so I could be able to use it.
 
-Adding the repo:
+Adding the repository:
 
-    $ brew tap Naicriz/CXPatcher
+    $ brew tap Naicriz/CXPatcher-GStreamer
 
 Install CXPatcher with:
 
