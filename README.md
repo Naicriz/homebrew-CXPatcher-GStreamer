@@ -1,6 +1,9 @@
-# homebrew-CXPatcher
-### All the Credits to Stonerl who is the creator of this homebrew cask.
-I just modified the repo so i can use it, because the original isn't working at the present moment.
+# homebrew-CXPatcher-GStreamer
+_All the Credits to Stonerl who is the creator of this homebrew cask._
+
+I just modified the repo so I could be able to use it.
+
+Adding the repo:
 
     $ brew tap Naicriz/CXPatcher
 
